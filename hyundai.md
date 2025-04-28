@@ -1,4 +1,6 @@
 # Hyundai
+## Ioniq 4
+Ioniq 5 および Ioniq 9 と同じ E-GMP プラットフォームが使用されると思われます 
 ## Ioniq 5
 - 発売
 - タイプ
