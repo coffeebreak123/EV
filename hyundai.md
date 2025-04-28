@@ -10,7 +10,7 @@
 1. ▲▲
 
 ![test](Toyota.jpg)
-[test2](https://www.yahoo.co.jp/)
+[yahoo](https://www.yahoo.co.jp/)
 ## Ioniq 6
 ## Ioniq9
 ## Kona
